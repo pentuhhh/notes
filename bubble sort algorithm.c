@@ -41,7 +41,7 @@ steps:
 	a swap, it will automatically return false since it needs to meet the conditions of the and function (all true)        
 	
 	let |array| = 4, 0 = in the wrong place, 1 = in the right place
-	suppose -> if index 0 and index 1 and index 2 and index 3 is equal to zero, then clear condition is true
+	suppose -> if index 0 and index 1 and index 2 and index 3 is equal to 1, then clear condition is true
 	represented as
 	
 	{1,1,0,1} = false, restart the loop
